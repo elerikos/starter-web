@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project fir showing how to use Git and GitHub togather.
+Add aline for rebase
 ## Introduction 
 
 This repository is for showing how Git and GitHub work  
