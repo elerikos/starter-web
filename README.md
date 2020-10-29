@@ -18,3 +18,6 @@ blah blah puropose
 depl descr
 
 ## How to contribute
+
+
+Copyright 2014training
